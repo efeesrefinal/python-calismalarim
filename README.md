@@ -1,2 +1,1 @@
-Python yaptığım çalışmaları buraya ekliyceğim😊
-
+Python yaptığım çalışmaları buraya ekliyceğim.
